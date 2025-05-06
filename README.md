@@ -19,7 +19,7 @@
 - 🌐 **网络连接**（下载需要 600MB+ 流量）
 ### 下载脚本
 ```bash
-curl -O https://example.com/install_mysql.sh
+git clone https://github.com/Rancade/install_MySQL.git
 chmod +x install_mysql.sh
 ```
 > 温馨提示：可以用 `wget` 代替 `curl` (｡･ω･｡)
