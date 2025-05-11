@@ -131,4 +131,4 @@ rm -f mysql-8.0.26-linux-glibc2.12-x86_64.tar*
 >遇到问题可以戳我哦~ (ฅ´ω`ฅ)  
    祝你的 MySQL 顺利跑起来！✨  
    记得常备份数据库~ 🐾
-[![GitHub Stars](https://img.shields.io/github/stars/yourname/server-guardian?style=social)](https://github.com/yourname/server-guardian)
+[![GitHub Stars](https://img.shields.io/github/stars/yourname/server-guardian?style=social)](https://github.com/Rancade/install_MySQL)
